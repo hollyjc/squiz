@@ -1,7 +1,5 @@
 name: continuous intergration
-on: 
-  push:
-    branches: [ master ]
+on: push
 
 jobs: 
   test_suite:
